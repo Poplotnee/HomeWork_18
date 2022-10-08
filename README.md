@@ -3,5 +3,4 @@
 With  MVC architecture 
 
 
-All methods can be viewed in swagger http://127.0.0.1:5000/
-
+All methods can be viewed in swagger http://localhost:10001/
